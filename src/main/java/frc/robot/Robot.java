@@ -23,6 +23,8 @@ public class Robot extends TimedRobot {
 
   Encoder encoder = new Encoder(0, 1);
 
+  //ESTE ES UN CAMBIO QUE HICE EN EL CODIGO QUE SE VERA REFLEJADO EN EL COMMIT
+
   //Encoder de cuadraturatura
   //Encoder encoder = new Encoder(0, 1, false, Encoder.EncodingType.k2X);
 
